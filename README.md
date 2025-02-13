@@ -1,2 +1,0 @@
-# iseng
-gabut cuy
