@@ -55,11 +55,11 @@
 */
 const messages = [
     "yakin?:>",
-    "Really sure idan??",
+    "Really sure pik??",
     "beneran nih?",
     "please:<",
-    "Just think about it!",
-    "If you say no, I will be really sad:<",
+    "Just think about it!:<",
+    "tar gw jadi sad nih:<",
     "ih jahat bgt:<",
     "dah lah masih ditolak:<",
     "yaudah, gw ga sayang lagi:<",
