@@ -55,7 +55,7 @@
 */
 const messages = [
     "yakin?:>",
-    "Really sure pik??",
+    "Really sure??",
     "beneran nih?",
     "please:<",
     "Just think about it!:<",
